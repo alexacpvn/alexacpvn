@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johanna!
-- 👀 I’m interested in anything data viz
+- 👀 I’m interested in anything data viz, blockchain, programming
 - 🌱 I’m currently learning tableau and python
 - 💞️ I’m looking to collaborate on any data viz projects
 - 📫 How to reach me johanna@usa-goj.com or @alexacpvn
