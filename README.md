@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johanna!
 - 👀 I’m interested in anything data viz, blockchain, programming
-- 🌱 I’m currently mastering tableau and python
+- 🌱 I’m currently mastering tableau, SQL, and python and learning C
 - 💞️ I’m looking to collaborate on any data viz projects
 - 📫 How to reach me johanna@usa-goj.com or @alexacpvn
 
